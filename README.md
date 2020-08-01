@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jswig&repo=github-readme-stats)](https://github.com/Jswig/github-readme-stats)
