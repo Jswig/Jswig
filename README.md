@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-You can find most of my projects at [anderspoirel.me/code](https://anderspoirel.me/code)
+Currently working on
+- best practices for [reproducible data science](https://github.com/getpopper/popper)
+- [data science competitions](https://www.drivendata.org/users/apoirel/)
+- learning front-end web development
+
+Find most of my projects at [anderspoirel.me/code](https://anderspoirel.me/code)
 
 [![Anders' github stats](https://github-readme-stats.vercel.app/api?username=Jswig&show_icons=true&theme=dracula)](https://github.com/Jswig/github-readme-stats)
