@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 ## Currently working on
 - best practices for [reproducible data science](https://github.com/getpopper/popper)
-- [data science competitions](https://www.drivendata.org/users/apoirel/)
-- learning front-end web development
+- generating [synthetic gene data](https://github.com/Jswig/synthetic-genes)
 
 ## Past projects
 Find most of my projects at [anderspoirel.me/code](https://anderspoirel.me/code)
