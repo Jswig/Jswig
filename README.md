@@ -14,9 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Currently working on
-- best practices for [reproducible data science](https://github.com/getpopper/popper)
-- generating [synthetic gene data](https://github.com/Jswig/ucsc-cgl-synthetic-genomes)
-
 ## Past projects
 Find most of my projects at [anderspoirel.me/code](https://anderspoirel.me/code)
