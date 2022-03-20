@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 
 ## Past projects
 Find most of my projects at [anderspoirel.me/code](https://anderspoirel.me/code)
-
-[![Anders' github stats](https://github-readme-stats.vercel.app/api?username=Jswig&show_icons=true&theme=dracula)](https://github.com/Jswig/github-readme-stats)
