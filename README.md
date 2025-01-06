@@ -13,6 +13,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Past projects
-Find most of my projects at [anderspoirel.me/code](https://anderspoirel.me/code)
